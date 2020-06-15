@@ -10,8 +10,8 @@ public class git_test2 {
 
 		int c = C.nextInt();
 		float f = (float) 9 / 5 * c + 32;
-		System.out.printf("%.1f", f); 
-		
+		System.out.printf("%.1f", f);
+
 	}
 
 }
